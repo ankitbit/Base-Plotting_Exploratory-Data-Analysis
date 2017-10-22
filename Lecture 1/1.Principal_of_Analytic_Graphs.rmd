@@ -24,3 +24,5 @@ The Data graphic should tell a complete story that is credible enough
 #### Principle #6: Content is King
 First decide that wWhat is the data that one has? What is the story one is attempting to tell? Only then proceed towards thinking the ways possible 
 to describe that story.
+
+
