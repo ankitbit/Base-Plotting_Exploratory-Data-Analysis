@@ -1,0 +1,26 @@
+## Principle of Analytic Graphics
+
+Edward Tuffey- Beautiful Evidence
+
+#### Principal #1: Show comparisons: Evidence to a hypothesis is relative to some other competing hypothesis. In such a case, given a hypotehsis, always question that compared to what hyopthesis, our given hypothesis holds true. 
+For. e.g. we show that
+Change in number of disease-symptom-free days actually increases for homes where air cleaners were installed in relation to homes where 
+it was not installed.
+
+#### Principle #2: Show causalty, mechanism, systematic structure:  Given a hypothesis, when we have shown that it holds true in relation to some other competing hypothesis, then we must show why this is happening. 
+For e.g. We show using boxplots that number of Particulate 
+Matter level in homes where air cleaners were installed were less than the homes where it was not installed.   
+
+#### Principle #3: Show multivariate data: 
+
+#### Simpson's Paradox: Overall trend appears negative. However, trends between 2 variables based on some third variable maybe positive
+
+#### Principle #4: Integrate Different modes of evidence:
+For e.g. We can use tables, texts and graphs etc.
+
+#### Principle #5: Describe and document the evidence with appropriate labels, scales and sources
+The Data graphic should tell a complete story that is credible enough
+
+#### Principle #6: Content is King
+First decide that wWhat is the data that one has? What is the story one is attempting to tell? Only then proceed towards thinking the ways possible 
+to describe that story.
